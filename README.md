@@ -4,4 +4,4 @@ When you catch square, it disappears.
 One hit - one point.
 Press Stop button to clear all area. 
 
-# To see the app put this link into your browser search bar https://sergiosmdev.github.io/simple-canvas/
+To see the app put this link into your browser search bar https://sergiosmdev.github.io/simple-canvas/
